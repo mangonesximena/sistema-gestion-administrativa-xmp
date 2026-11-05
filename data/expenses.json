@@ -1,0 +1,35 @@
+[
+  {
+    "id": "exp-1",
+    "fecha": "2026-08-26",
+    "descripcion": "Comprar de productos",
+    "categoria": "Compras",
+    "valor": 400000,
+    "observacion": "Compra para abastecer el negocio"
+  },
+  {
+    "id": "exp-2",
+    "fecha": "2026-08-27",
+    "descripcion": "Pago de transporte",
+    "categoria": "Transporte",
+    "valor": 80000,
+    "observacion": "Traslado de productos"
+  },
+  {
+    "id": "exp-3",
+    "fecha": "2026-08-28",
+    "descripcion": "Pago de servicios",
+    "categoria": "Servicios",
+    "valor": 150000,
+    "observacion": "Pago de servicios de la empresa"
+  },
+  {
+    "id": "exp-4",
+    "fecha": "2026-08-29",
+    "descripcion": "Compra de papelería",
+    "categoria": "Papelería",
+    "valor": 60000,
+    "observacion": "Material para actividades administrativas"
+  }
+]
+

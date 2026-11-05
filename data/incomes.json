@@ -1,0 +1,35 @@
+[
+  {
+    "id": "inc-1",
+    "fecha": "2026-08-26",
+    "descripcion": "Venta de productos",
+    "categoria": "Ventas",
+    "valor": 800000,
+    "observacion": "Venta realizada durante el día"
+  },
+  {
+    "id": "inc-2",
+    "fecha": "2026-08-27",
+    "descripcion": "Venta de productos",
+    "categoria": "Ventas",
+    "valor": 650000,
+    "observacion": "Pago recibido por cliente"
+  },
+  {
+    "id": "inc-3",
+    "fecha": "2026-08-28",
+    "descripcion": "Pago de cliente pendiente",
+    "categoria": "Cuentas por cobrar",
+    "valor": 450000,
+    "observacion": "Se recibió el pago completo"
+  },
+  {
+    "id": "inc-4",
+    "fecha": "2026-08-29",
+    "descripcion": "Ventas de productos",
+    "categoria": "Ventas",
+    "valor": 900000,
+    "observacion": "Ingresos por ventas del día"
+  }
+]
+

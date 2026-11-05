@@ -1,0 +1,43 @@
+[
+  {
+    "id": "task-1",
+    "nombre": "Revisar el inventario",
+    "descripcion": "Verificar las existencias de productos y materiales de la empresa.",
+    "fecha": "2026-08-26",
+    "fechaLimite": "2026-08-27",
+    "prioridad": "Alta",
+    "estado": "Pendiente",
+    "responsable": "Usuario Administrativo"
+  },
+  {
+    "id": "task-2",
+    "nombre": "Registrar compras",
+    "descripcion": "Ingresar las compras realizadas en el sistema",
+    "fecha": "2026-08-26",
+    "fechaLimite": "2026-08-26",
+    "prioridad": "Media",
+    "estado": "Completada",
+    "responsable": "Usuario Administrativo"
+  },
+  {
+    "id": "task-3",
+    "nombre": "Revisar facturas",
+    "descripcion": "Revisar las facturas pendientes de pago",
+    "fecha": "2026-08-27",
+    "fechaLimite": "2026-08-28",
+    "prioridad": "Alta",
+    "estado": "Pendiente",
+    "responsable": "Responsable Unidad Administrativa"
+  },
+  {
+    "id": "task-4",
+    "nombre": "Contactar proveedor",
+    "descripcion": "Solicitar información sobre un pedido",
+    "fecha": "2026-08-27",
+    "fechaLimite": "2026-08-29",
+    "prioridad": "Media",
+    "estado": "En proceso",
+    "responsable": "Usuario Administrativo"
+  }
+]
+

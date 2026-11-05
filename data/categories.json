@@ -1,0 +1,45 @@
+[
+  {
+    "id": "alimentacion",
+    "nombre": "Alimentación",
+    "descripcion": "Gastos relacionados con alimentos y bebidas.",
+    "color": "amber"
+  },
+  {
+    "id": "transporte",
+    "nombre": "Transporte",
+    "descripcion": "Gastos de desplazamiento, entregas y transporte de productos.",
+    "color": "blue"
+  },
+  {
+    "id": "servicios",
+    "nombre": "Servicios",
+    "descripcion": "Pagos de servicios públicos, internet, telefonía, entre otros.",
+    "color": "indigo"
+  },
+  {
+    "id": "compras",
+    "nombre": "Compras",
+    "descripcion": "Adquisición de productos, materiales o insumos necesarios para la empresa.",
+    "color": "emerald"
+  },
+  {
+    "id": "papeleria",
+    "nombre": "Papelería",
+    "descripcion": "Compra de hojas, carpetas, lapiceros y demás materiales de oficina.",
+    "color": "purple"
+  },
+  {
+    "id": "entretenimiento",
+    "nombre": "Entretenimiento",
+    "descripcion": "Gastos relacionados con actividades de entretenimiento o eventos.",
+    "color": "pink"
+  },
+  {
+    "id": "otros",
+    "nombre": "Otros",
+    "descripcion": "Gastos que no correspondan a las categorías anteriores.",
+    "color": "slate"
+  }
+]
+
